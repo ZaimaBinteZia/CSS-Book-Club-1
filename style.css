@@ -1,0 +1,26 @@
+nav {
+    background-color: rgb(226, 195, 149)
+}
+
+#intro {
+    background-color: rgba(125, 84, 40, 0.629)
+}
+
+.main-section-content h2 {
+    background-color: rgba(125, 80, 51, 0.882)
+}
+
+#bestsellers,
+footer {
+    background-color: rgb(226, 198, 157)
+}
+
+header,
+nav,
+#intro,
+#main-section,
+#bestsellers,
+footer {
+    border: 2px solid rgba(99, 47, 10, 0.878);
+    border-radius: 10px
+}
